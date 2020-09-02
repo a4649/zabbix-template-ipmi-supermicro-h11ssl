@@ -15,6 +15,6 @@ Applications: 7
 
 Items: 41
 
-Triggers 49
+Triggers: 49
 
 Graphs: 3
